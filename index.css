@@ -31,7 +31,7 @@ body {
     font-size: 29px;
     font-weight: 400;
   }
-  .todo-btn {
+  .btn {
     margin-top: 10rem;
     padding: 0.5rem 2rem;
     font-size: 1rem;
@@ -70,7 +70,7 @@ body {
       margin-top: 10rem;
     }
   
-    .todo-btn {
+    .btn {
       margin-top: 5rem;
       width: 200px;
     }
